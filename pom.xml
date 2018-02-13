@@ -101,7 +101,7 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://localhost:9090/repository/mavenjavaproject/</url>
+      <url>http://localhost:9090/repository/mavenjavaproject2/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
